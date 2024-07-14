@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠 Skills
+### 🛠 Skills and Tools
 
 <p align="center" style="text-decoration: none;">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
