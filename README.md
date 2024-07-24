@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujit Chaudhary</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A coding enthusiast</h3>
 
 <div align="center">
   <a href="https://twitter.com/_SujitChaudhary" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="30" width="40" style="vertical-align: middle;"/></picture></a>
